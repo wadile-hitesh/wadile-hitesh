@@ -2,6 +2,9 @@
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning Backend Devlopemnt
 - 💞️ I’m looking to collaborate on different Projects.
+- <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=vivekpatil45&label=Profile%20views&color=green&style=flat" alt="vivekpatil45" /> 
+</p>
 
 <!---
 wadile-hitesh/wadile-hitesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
