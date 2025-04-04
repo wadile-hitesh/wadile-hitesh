@@ -12,7 +12,6 @@
 - 👀 I’m interested in **Full Stack Development**
 - 🌱 I’m currently learning **Backend Development**
 - 💞️ I’m looking to collaborate on exciting real-world projects
-- 🔗 Portfolio coming soon at **[Innoveda.tech](https://innoveda.tech)**
 
 ---
 
